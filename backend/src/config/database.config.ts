@@ -1,5 +1,5 @@
 export const databaseConfig = {
   provider: "PostgreSQL",
-  orm: "Prisma",
+  orm: "None",
   url: process.env.DATABASE_URL ?? ""
 };

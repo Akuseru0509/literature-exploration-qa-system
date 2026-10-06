@@ -7,8 +7,8 @@ Backend API generated with init-backend-project.
 - Framework: Express
 - Language: TypeScript
 - Database: PostgreSQL
-- ORM: Prisma
-- Authentication: JWT Auth
+- ORM: None
+- Authentication: None
 - API documentation: None
 - Validation: None
 - Testing: None
